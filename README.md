@@ -1,6 +1,6 @@
 # CppPool
 
-Cpp_Engine v0.5.0 기반 물리 당구 시뮬레이션. 승패 없이 자유 연습 형태로, 스핀 물리와 쿠션 반사에 집중한 포켓볼 게임.
+[Cpp_Engine](https://github.com/MyungJewon/Cpp_Engine) v0.5.0 기반 물리 당구 시뮬레이션. 승패 없이 자유 연습 형태로, 스핀 물리와 쿠션 반사에 집중한 포켓볼 게임.
 
 ---
 
