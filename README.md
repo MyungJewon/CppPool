@@ -63,3 +63,11 @@ src/game/billiards/
 | 스핀 강도 | `CueController.h` `SPIN_SCALE` | 30.0 |
 | 쿠션 반발 | `TableSetup.cpp` `restitution` | 0.75 |
 | 롤링 저항 | `BilliardPhysicsSystem.h` `ROLL_RESIST` | — |
+
+---
+
+## 플레이영상
+https://github.com/user-attachments/assets/aeb89bbe-14bf-48ac-9f8c-63a587da4cb2
+
+
+
