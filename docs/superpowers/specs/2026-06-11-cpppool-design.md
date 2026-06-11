@@ -153,5 +153,6 @@ enum class GameState { Aiming, Shooting, Resetting };
 3단계: 조준선 + 파워 발사 (스핀 없이)
 4단계: BilliardPhysicsSystem — 롤링 마찰 + 스핀
 5단계: 포켓 감지 + 큐볼 복귀
+
 6단계: HUD + SpinDialUI
 ```
